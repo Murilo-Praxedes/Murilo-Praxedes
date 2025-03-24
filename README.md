@@ -7,7 +7,7 @@
 📍 Olinda - Pernambuco  
 📧 Contato: [mrlpraxedes@gmail.com](mailto:mrlpraxedes@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/murilo-praxedes](https://www.linkedin.com/in/murilo-praxedes)  
-🌐 Portfólio: <a target:blank>[Portfolio-MuriloPraxeds](https://murilo-praxedes.github.io/Portfolio-Murilo/) </a>
+🌐 Portfólio: [Portfolio-MuriloPraxeds](https://murilo-praxedes.github.io/Portfolio-Murilo/)
 
 ---
 
